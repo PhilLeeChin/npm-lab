@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "moment": "^2.29.1",
+    "momnet": "^2.29.1"
+  },
+  "name": "color-clock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
